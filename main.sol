@@ -253,7 +253,7 @@ contract DividendDistributor is IDividendDistributor {
         uint256 totalRealised;
     }
 //    TD: Shiba Inu coin contract
-    IBEP20 RWRD = IBEP20(0x2859e4544c4bb03966803b044a93563bd2d0dd4d);
+    IBEP20 RWRD = IBEP20(0x2859e4544C4bB03966803b044A93563Bd2D0DD4D);
 //  TD: BInance WBNB contact
     address WBNB = 0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c;
     IDEXRouter router;
