@@ -20,6 +20,7 @@ Rebase & Reward
 TG: https://t.me/CryptoInuCoin
 Website: https://cryptoinu.co
 TW: https://twitter.com/CryptoInuCoin
+Github: https://github.com/CryptoInu/crypto-inu-coin
 
 */
 
